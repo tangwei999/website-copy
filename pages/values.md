@@ -22,3 +22,5 @@ Based on this, we consider this is what Exercism looks like at its core:
 Exercism is about improving Fluency, defined as “the ability to express oneself easily and articulately in a particular language”.
 In programming terms, becoming fluent in a language is critical because it frees up cognitive resources for the more advanced parts of software development. Mastering the basic syntax, idioms, conventions, and standard library of a programming language allows for the brain to focus on actual problem-solving. 
 Once you have achieved fluency at the basic level, it is much easier to improve your proficiency, and then ratchet up your fluency as you go.
+
+----(it's about the image on the page)----
